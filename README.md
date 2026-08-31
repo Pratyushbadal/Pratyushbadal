@@ -81,43 +81,6 @@ available:  true
   </picture>
 </div>
 
-<!--
-  To enable the snake, create this file in your profile repo:
-  .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
----
-
-## Now Playing
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gs6mx4c7bx8dcq72timm4cva2&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gs6mx4c7bx8dcq72timm4cva2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
 ---
 
 ## Connect

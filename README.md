@@ -82,7 +82,7 @@ available:  true
 ## Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyushbadal&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushbadal&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
 </div>
 
 ---

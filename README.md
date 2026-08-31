@@ -26,7 +26,6 @@
 - ☁️ **Certified:** AWS Cloud Practitioner · AWS Academy Graduate (Data Engineering, ML, NLP)
 - 🚀 **Participant:** NASA International Space Apps Challenge 2025 · Islington Hackathon 2025
 - 📫 **Reach me:** info@pratyushbadal.com.np
-- ⚡ **Fun fact:** I write stored procedures *and* React components. Both are fine, I promise.
 
 ---
 

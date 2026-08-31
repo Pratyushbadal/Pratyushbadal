@@ -67,27 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pratyushbadal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&ring_color=7C3AED" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushbadal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushbadal&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=a855f7&currStreakLabel=7C3AED&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyushbadal&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -100,9 +79,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚗 [VehicleIMS](https://github.com/Madancsta/VehicleIMS) | Full-stack vehicle inventory & booking system with role-specific dashboards | C#, ASP.NET Core, React, PostgreSQL, EF Core |
-| 📊 [DataViz](https://github.com/Pratyushbadal/DataViz) | Dataset management & visualization platform with ML chart recommendations | Python, FastAPI, React, TypeScript, scikit-learn |
-| 📓 [JournalApp](https://github.com/Pratyushbadal/JournalApp) | Cross-platform journal & task tracker for Android, iOS, Windows & macOS | .NET MAUI, Blazor, SQLite, QuestPDF, C# |
+| [VehicleIMS](https://github.com/Madancsta/VehicleIMS) | Full-stack vehicle inventory & booking system with role-specific dashboards | C#, ASP.NET Core, React, PostgreSQL, EF Core |
+| [DataViz](https://github.com/Pratyushbadal/DataViz) | Dataset management & visualization platform with ML chart recommendations | Python, FastAPI, React, TypeScript, scikit-learn |
+| [JournalApp](https://github.com/Pratyushbadal/JournalApp) | Cross-platform journal & task tracker for Android, iOS, Windows & macOS | .NET MAUI, Blazor, SQLite, QuestPDF, C# |
 
 ---
 

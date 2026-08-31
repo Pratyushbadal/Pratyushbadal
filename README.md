@@ -63,14 +63,6 @@ available:  true
 
 ## Featured Projects
 
-<div align="center">
-
-[![VehicleIMS](https://github-readme-stats.vercel.app/api/pin/?username=Madancsta&repo=VehicleIMS&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7)](https://github.com/Madancsta/VehicleIMS)
-[![DataViz](https://github-readme-stats.vercel.app/api/pin/?username=Pratyushbadal&repo=DataViz&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7)](https://github.com/Pratyushbadal/DataViz)
-[![JournalApp](https://github-readme-stats.vercel.app/api/pin/?username=Pratyushbadal&repo=JournalApp&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7)](https://github.com/Pratyushbadal/JournalApp)
-
-</div>
-
 | Project | Description | Stack |
 |---|---|---|
 | **[VehicleIMS](https://github.com/Madancsta/VehicleIMS)** | Full-stack vehicle inventory & booking system with role-specific dashboards | `C#` `ASP.NET Core` `React` `PostgreSQL` `EF Core` |
